@@ -1,0 +1,25 @@
+.video {
+    width: 15rem;
+    text-align: left;
+    border: 1px solid #0000003a;
+    border-radius: 8px;
+    padding: 0.5rem;
+  
+  }
+  
+  .video-img {
+    width: 30%;
+    margin: 0 auto;
+  
+  }
+  
+  .video p {
+    margin: 0 0 0.5rem;
+  
+  }
+  
+  .video-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
